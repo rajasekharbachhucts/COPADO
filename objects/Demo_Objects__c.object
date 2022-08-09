@@ -11,7 +11,7 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>second_field__c</fullName>
+        <fullName>second_fie__c</fullName>
         <externalId>false</externalId>
         <label>second field</label>
         <length>30</length>
