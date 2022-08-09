@@ -4,16 +4,6 @@
         <fullName>First_Field__c</fullName>
         <externalId>false</externalId>
         <label>First Field</label>
-        <length>200</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>second_field__c</fullName>
-        <externalId>false</externalId>
-        <label>second field</label>
         <length>20</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
